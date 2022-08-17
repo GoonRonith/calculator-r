@@ -1,0 +1,74 @@
+.design
+{
+    width: 50vw;
+    height:63vh;
+    margin: auto;
+    background-color: rgba(80, 47, 114, 0.712);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+    opacity: 0.9;
+}
+
+html,body{
+    
+    width: 100vw;
+    height: 100vh;
+    margin-top: 10vh;
+    background:linear-gradient(#cc2b5e,#753a88);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+h1,p{
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 1em rgb(62, 62, 62), 0 0 0.2em rgb(218, 218, 218);
+}
+input,textarea
+{
+    width: 40%;
+    margin: 3px;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 0;
+    outline: 0;
+   
+    
+}
+.rr
+{
+    width: 40%;
+    margin: 3px;
+    text-align: center;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 0;
+    outline: 0;
+    background-color: whitesmoke;
+}
+
+.btn{
+    color: rgb(4, 4, 26);
+    background-color:rgb(169, 204, 74);
+    padding: 8px 12px;
+    cursor: pointer;
+    margin-left: 10vw;
+}
+fieldset{
+    margin-top: 50px;
+}
+.center 
+{
+    margin-left: 10vw;
+}
+.rok
+{
+    width: 40%;
+    margin: 3px;
+    text-align: center;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 0;
+    outline: 0;
+    background-color: whitesmoke; 
+}
